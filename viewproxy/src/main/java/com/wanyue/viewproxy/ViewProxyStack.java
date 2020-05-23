@@ -6,6 +6,7 @@ import java.util.LinkedList;
 public class ViewProxyStack  {
     private LinkedList<BaseViewProxy> mProxyLinkedList;
     private IStackAnimer mStackAnimHelper;
+
     public ViewProxyStack() {
 
     }
