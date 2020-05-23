@@ -1,0 +1,3 @@
+rootProject.name='ViewProxy'
+include ':app'
+include ':viewproxy'
